@@ -1,1 +1,2 @@
-# docker-file-nodejs-mongodb
+# alura-docker
+Projeto do curso de Docker
